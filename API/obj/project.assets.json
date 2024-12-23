@@ -4815,11 +4815,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet\\Udemy Tutorial\\skipnet\\Progress\\skipnet\\API\\API.csproj",
+      "projectUniqueName": "d:\\dotnet\\Udemy Tutorial\\skipnet\\Progress\\skipnet\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\dotnet\\Udemy Tutorial\\skipnet\\Progress\\skipnet\\API\\API.csproj",
+      "projectPath": "d:\\dotnet\\Udemy Tutorial\\skipnet\\Progress\\skipnet\\API\\API.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet\\Udemy Tutorial\\skipnet\\Progress\\skipnet\\API\\obj\\",
+      "outputPath": "d:\\dotnet\\Udemy Tutorial\\skipnet\\Progress\\skipnet\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4841,8 +4841,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "D:\\dotnet\\Udemy Tutorial\\skipnet\\Progress\\skipnet\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\dotnet\\Udemy Tutorial\\skipnet\\Progress\\skipnet\\Infrastructure\\Infrastructure.csproj"
+            "d:\\dotnet\\Udemy Tutorial\\skipnet\\Progress\\skipnet\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "d:\\dotnet\\Udemy Tutorial\\skipnet\\Progress\\skipnet\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
